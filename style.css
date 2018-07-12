@@ -1,0 +1,36 @@
+body {
+    background-color: peachpuff;
+    font-family: 'Arial', sans-serif;
+    font-size: 18px;
+    color: darksalmon;
+}
+
+h1, h2 {
+    color: rebeccapurple;
+}
+
+p {
+    background-color: white;
+}
+
+p em {
+    color: cornflowerblue;
+}
+
+p strong {
+    background-color: pink;
+    color: cornflowerblue;
+}
+
+ul, ol {
+    background-color: papayawhip;
+}
+
+#footer {
+    background: peachpuff;
+    color: white;
+}
+
+.title {
+    font-size: 3em;
+}
